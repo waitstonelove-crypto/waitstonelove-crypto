@@ -127,7 +127,6 @@
 | [kuka-ar5-obstacle-avoidance](https://github.com/waitstonelove-crypto/kuka-ar5-obstacle-avoidance) | KUKA/AR5 redundant manipulator obstacle avoidance — ALMM+ASOA unified QP framework (MATLAB + PyBullet) |
 | [puma560-reproduction](https://github.com/waitstonelove-crypto/puma560-reproduction) | PUMA 560 neural-network kinematic control — 4 experiments in MATLAB (Li, Zhang & Jin 2017, TNNLS) |
 | [claude-token-saver](https://github.com/waitstonelove-crypto/claude-token-saver) | Claude Code / DeepSeek project memory plugin — file-driven, zero deps |
-| [claude-project-memory](https://github.com/waitstonelove-crypto/claude-project-memory) | Auto-save project tech stack, architecture, bugs & preferences for Claude Code |
 
 </div>
 
