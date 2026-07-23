@@ -1,24 +1,59 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║    ░▒▓█  ＳＯＵＴＨＴＲＥＥ  █▓▒░                                        ║
-║                                                                          ║
-║    Physics × AI  |  NTU  |  Building at the edge of what's possible      ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║      █▀ █▀█ █░█ ▀█▀ █░█ ▀█▀ █▀█ █▀▀ █▀▀                                  ║
+║      ▄█ █▄█ █▄█ ░█░ █▀█ ░█░ █▀▄ ██▄ ██▄                                  ║
+║                                                                              ║
+║         Physics × AI  │  NTU  │  Building at the edge of what's possible     ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://img.shields.io/badge/NTU-Physics%20%7C%20AI-blue?style=for-the-badge&logo=robotframework&logoColor=white" />
-<img src="https://img.shields.io/badge/Research-Robotics%20%7C%20Optimization%20%7C%20ML-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Building-AI%20%2B%20Science%20Toolchain-brightgreen?style=for-the-badge" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Physicist+turned+AI+Builder;Robotics+%2B+Optimization+%2B+ML;Claude+Code+Plugin+Developer;Building+AI+Science+Infrastructure;%E7%89%A9%E7%90%86+%C3%97+AI+%C2%B7+%E6%8E%A2%E7%B4%A2%E8%80%85" alt="Typing SVG" />
+</a>
 
-<br>
+<br/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Physicist+turned+AI+Builder;Robotics+%2B+Optimization+%2B+ML;Claude+Code+Power+User;Building+AI+Science+Infra;%E7%89%A9%E7%90%86+%C3%97+AI+%C2%B7+%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0" alt="Typing SVG" />
+<p>
+  <img src="https://img.shields.io/badge/NTU-Physics_&_AI-blue?style=for-the-badge&logo=robotframework&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Research-Robotics_|_Optimization_|_ML-red?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Building-AI_+_Science_Toolchain-brightgreen?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Code-Claude_Code_|_DeepSeek-black?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=1a1a2e" />
+</p>
 
 </div>
+
+---
+
+### &nbsp;
+
+<div align="center">
+
+| ![Stats](https://github-readme-stats.vercel.app/api?username=waitstonelove-crypto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=450) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waitstonelove-crypto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=350) |
+|:---:|:---:|
+
+</div>
+
+<div align="center">
+
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=waitstonelove-crypto&theme=tokyonight&hide_border=true) | ![Trophy](https://github-profile-trophy.vercel.app/?username=waitstonelove-crypto&theme=tokyonight&no-frame=true&row=1&column=4) |
+|:---:|:---:|
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/waitstonelove-crypto/waitstonelove-crypto/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/waitstonelove-crypto/waitstonelove-crypto/output/snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/waitstonelove-crypto/waitstonelove-crypto/output/snake.svg">
+</picture>
 
 ---
 
@@ -30,8 +65,8 @@
 📍 Nanyang Technological University
 🔬 Physics-informed optimization & robotics
 🤖 Building AI-assisted research pipelines
-📐 LaTeX, MATLAB, Python, Deep Learning
-⚡ Claude Code · DeepSeek · Open-source
+📐 LaTeX · MATLAB · Python · Deep Learning
+⚡ Claude Code Plugin Developer · Open Source
 ```
 
 </td></tr></table>
@@ -51,23 +86,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSeek-4A90D9?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-4A90D9?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_CLI-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waitstonelove-crypto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waitstonelove-crypto&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waitstonelove-crypto&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-profile-trophy.vercel.app/?username=waitstonelove-crypto&theme=tokyonight&no-frame=true&row=1&column=4" height="180" />
 </p>
 
 ---
@@ -75,34 +96,39 @@
 <h3 align="center">🔬 Research Focus / 研究方向</h3>
 
 ```
-  ┌──────────────────────────────────────────────────────┐
-  │                                                      │
-  │   Redundant Manipulator Optimization                 │
-  │       ├── ALMM: BFGS-based Manipulability Max        │
-  │       ├── ASOA: Shape-Based Obstacle Avoidance       │
-  │       └── Unified QP Framework                       │
-  │                                                      │
-  │   AI-Assisted Scientific Workflows                   │
-  │       ├── Claude Code Plugin Development              │
-  │       ├── Academic Writing Pipeline Automation        │
-  │       └── Open-Source AI Toolchain                    │
-  │                                                      │
-  │   Physics × Deep Learning                            │
-  │       ├── Physics-Informed Neural Networks            │
-  │       ├── Optimization Theory                         │
-  │       └── Numerical Simulation                        │
-  │                                                      │
-  └──────────────────────────────────────────────────────┘
+  ┌──────────────────────────────────────────────────────────────┐
+  │                                                              │
+  │   Redundant Manipulator Optimization                        │
+  │       ├── ALMM: BFGS-based Manipulability Maximization       │
+  │       ├── ASOA: Shape-Based Obstacle Avoidance               │
+  │       └── Unified QP Framework for Redundant Arms            │
+  │                                                              │
+  │   AI-Assisted Scientific Workflows                           │
+  │       ├── Claude Code Plugin Ecosystem                       │
+  │       ├── Academic Writing Pipeline Automation                │
+  │       └── Open-Source AI Research Toolchain                  │
+  │                                                              │
+  │   Physics × Deep Learning                                    │
+  │       ├── Physics-Informed Neural Networks                   │
+  │       ├── Constrained Optimization Theory                    │
+  │       └── Numerical Simulation & Control                     │
+  │                                                              │
+  └──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-<h3 align="center">🎯 Current / 正在做的事</h3>
+<h3 align="center">📂 Featured Projects / 精选项目</h3>
 
-- 📝 IEEE TII paper: ALMM+ASOA unified QP framework for redundant manipulators
-- 🛠 Building Claude Code skills for academic workflows
-- 🤖 Exploring agent-based research automation
-- 🌐 Contributing to open-source AI tooling
+<div align="center">
+
+| Project | Description |
+|:---|:---|
+| [claude-token-saver](https://github.com/waitstonelove-crypto/claude-token-saver) | Claude Code / DeepSeek project memory plugin — file-driven, zero deps |
+| [puma560-reproduction](https://github.com/waitstonelove-crypto/puma560-reproduction) | PUMA 560 redundant manipulator neural-network kinematic control — 4 experiments in MATLAB |
+| [claude-project-memory](https://github.com/waitstonelove-crypto/claude-project-memory) | Auto-save project tech stack, architecture, bugs & preferences for Claude Code |
+
+</div>
 
 ---
 
@@ -120,7 +146,11 @@
 ---
 
 <div align="center">
+
   <img src="https://komarev.com/ghpvc/?username=waitstonelove-crypto&style=flat-square&color=blue" alt="Profile views" />
-  <br>
-  <sub>Built with Claude Code · Last updated 2026-05-24</sub>
+
+  <br/>
+
+  <sub>Built with ❤️ using Claude Code · Last updated July 2026</sub>
+
 </div>
