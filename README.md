@@ -29,19 +29,11 @@
 
 ---
 
-### &nbsp;
+### 🔥 GitHub Streak / 连续打卡
 
 <div align="center">
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=waitstonelove-crypto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=450) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waitstonelove-crypto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=350) |
-|:---:|:---:|
-
-</div>
-
-<div align="center">
-
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=waitstonelove-crypto&theme=tokyonight&hide_border=true) | ![Trophy](https://github-profile-trophy.vercel.app/?username=waitstonelove-crypto&theme=tokyonight&no-frame=true&row=1&column=4) |
-|:---:|:---:|
+  <img src="https://streak-stats.demolab.com/?user=waitstonelove-crypto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -151,6 +143,6 @@
 
   <br/>
 
-  <sub>Built with ❤️ using Claude Code · Last updated July 2026</sub>
+  <sub>Built with ❤️ using Claude Code · Last updated August 2026</sub>
 
 </div>
